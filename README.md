@@ -1,3 +1,4 @@
+
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
@@ -118,3 +119,25 @@ Issues and Pull Requests are greatly appreciated. If you've never contributed to
 You can start by [opening an issue](https://github.com/barryclark/jekyll-now/issues/new) describing the problem that you're looking to resolve and we'll go from there.
 
 I want to keep Jekyll Now as minimal as possible. Every line of code should be one that's useful to 90% of the people using it. Please bear that in mind when submitting feature requests. If it's not something that most people will use, it probably won't get merged. :guardsman:
+=======
+# bernibarra.github.io
+p website
+
+## Heading 2
+### Heading 3
+
+-Unordered list item 1
+-Unordered list item 2
+-Unordered list item 3
+
+1.Item 1
+2.Item 2
+3.Item 3
+
+_Italics_
+
+**Bold**
+
+[Link Name](bernibarra.github.io/ "Title Name")
+
+
